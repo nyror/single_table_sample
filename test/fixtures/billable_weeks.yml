@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  total_hours: 1
+  timesheet_id: 
+
+two:
+  total_hours: 1
+  timesheet_id: 
